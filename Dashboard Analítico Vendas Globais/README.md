@@ -1,5 +1,3 @@
-# Power-BI
-
 Nosso Dashboard deve responder as perguntas abaixo:
 - Qual o valor total vendido?
 - Quantas vendas foram realizadas por categoria de produto?
